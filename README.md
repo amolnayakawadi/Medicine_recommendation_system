@@ -1,4 +1,6 @@
-## Medicine Recommendation System
+##### Medicine Recommendation System
+
+![web application image](https://github.com/user-attachments/assets/d54daf2d-f93b-46cf-a101-ba0f6112f608)
 
 Project Title = Medicine Recommendation System
 
