@@ -4,8 +4,8 @@
 
 Project Title = Medicine Recommendation System
 
-Project Description
-Medicine Recommendation System
+## Project Description
+### Medicine Recommendation System
 The Medicine Recommendation System is a sophisticated tool designed to assist healthcare professionals and patients in selecting the most appropriate medications based on individual needs and preferences. By leveraging a comprehensive medicine dataset and advanced machine learning techniques, this system provides personalized recommendations, enhancing the decision-making process in healthcare.
 
 This project utilizes Python for data processing and machine learning, Jupyter Notebook for development and analysis, and HTML for the user interface. The system integrates various features, such as filtering by symptoms, patient history, and medication interactions, to ensure safe and effective recommendations.
