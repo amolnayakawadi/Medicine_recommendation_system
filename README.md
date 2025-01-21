@@ -30,12 +30,12 @@ Integration and Updates: The system integrates with healthcare databases for up-
 
 Monitoring and Support: Regular monitoring and maintenance are conducted to ensure the system operates efficiently and to address any issues that arise.
 
-## How to Run the Project
-## Prerequisites
-## Before running the project, ensure you have the following installed on your system:
-## Python 3.6 or higher
-## Jupyter Notebook
-## Required Python libraries (listed in requirements.txt)
+# How to Run the Project
+# Prerequisites
+# Before running the project, ensure you have the following installed on your system:
+# Python 3.6 or higher
+# Jupyter Notebook
+# Required Python libraries (listed in requirements.txt)
 
 ## Installation
 
